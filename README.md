@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Next.js ,Redux**
 
-- 👨‍💻 All of my projects are available at [harsh-athavale.netlify.app/](harsh-athavale.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://harsh-athavale.netlify.app/](https://harsh-athavale.netlify.app/)
 
-- 📫 How to reach me **harsh-athavale.netlify.app/**
+- 📫 How to reach me **https://harsh-athavale.netlify.app/**
 
 
 <p align="left">
